@@ -6,4 +6,6 @@ public interface GitTest {
     void delete();
 
     void update();
+
+    void hello();
 }
