@@ -4,4 +4,6 @@ public interface GitTest {
     void addUser();
 
     void delete();
+
+    void update();
 }
